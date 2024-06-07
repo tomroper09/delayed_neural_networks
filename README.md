@@ -1,3 +1,4 @@
-# delayed_neural_networks
+# Modelling delays in Neural Networks
 
-### Contains my scientific poster presenting how to analyse and model neural networks with delay differential equations
+#### Poster: Scientific poster presenting my work on delayed neural networks
+#### matlab1.m: Sample matlab code for producing one of the figures
